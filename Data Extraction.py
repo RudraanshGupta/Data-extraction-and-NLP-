@@ -14,6 +14,7 @@ if not os.path.exists(output_folder):
 
 # Loading the input Excel file into a DataFrame
 df = pd.read_excel(input_file)
+
 # Function to extract title and article text 
 async def fetch_title_and_article(session, url, url_id):
     try:
