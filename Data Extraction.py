@@ -50,3 +50,19 @@ async def fetch_title_and_article(session, url, url_id):
     
     except Exception as e:
         print(f"Error extracting data from {url}: {e}")
+
+# Main function to handle asynchronous fetching
+async def main():
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        for _, row in df.iterrows():
+            url = row['URL']
+            url_id = row['URL_ID']
+            # Appending the task for fetching each URL
+            tasks.append(fetch_title_and_article(session, url, url_id))
+        
+        # Running all tasks concurrently
+        await asyncio.gather(*tasks)
+
+# Running the asynchronous scraping
+asyncio.run(main())
