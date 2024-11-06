@@ -1,0 +1,131 @@
+
+
+
+Home  Our Success Stories  Power BI Data-Driven Map Dashboard
+
+
+
+Our Success StoriesIT Power BI Data-Driven Map Dashboard
+
+By Ajay Bidyarthy -   February 26, 2022 4646 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 60+Project ObjectiveChange bubble colors dynamically.Make table and charts linked. If a user clicks on tables values, then the bubble chart on the map should be highlighted that relates to the table. Project Description“I have a map visual. I would like to dynamically change the colours of some of the bubbles.”The report page has several filters and KPI Dashboard, whose metrics change dynamically when the user clicks a certain element. Similarly the map should also change dynamically relative to the filter.Our SolutionAdded the website data from Details table to the map visualization, it makes the bubbles get coloured dynamically according to the requirement for websites data.Project DeliverablesThe Power BI ( .pbix ) file updated with solutionTools usedPower BISkills usedPower BIData VisualizationData AnalysisDatabases usedThe database that came in with the Power BI file received from clientWhat are the technical Challenges Faced during Project ExecutionThe map was not linkedMap Bubbles were not dynamicHow the Technical Challenges were SolvedRefactoring the data model and using appropriate keys to link the data togetherThat made Map to change according to Slicers/FiltersTo Change the colour, Bookmark buttons were used in the dashboard to bring up the dynamic colour changing with slicing (works after being published)Project SnapshotsProject Video
+
+ 
+
+
+
+Previous articleAI Conversational Bot using RASANext articleElectric Vehicles (EV) Load Management System to Forecast Energy Demand Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Marketing Mix Data Analysis 
+April 17, 2021 
+
+
+ 
+
+
+
+
+OCR – Extracting Information from Scanned Documents 
+April 18, 2020 
+
+
+ 
+
+
+
+
+Impacts of COVID 19 on Vegetable Vendors 
+November 6, 2021 
+
+
+ 
+
+
+
+
+AI in healthcare to Improve Patient Outcomes 
+June 26, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud...
+
+ 
+
+
+
+ 
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+
+ 
+
+
+
+ 
+BERT-Based Classification of Individuals and Organizations into Two Categories Using Natural...
+
+ 
+
+
+
+ 
+AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech...
+
+   
+
+ 
+ 

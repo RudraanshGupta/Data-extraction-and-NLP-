@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Splitting of Songs into its Vocals and Instrumental
+
+
+
+Our Success StoriesEntertainmentIT Splitting of Songs into its Vocals and Instrumental
+
+By Ajay Bidyarthy -   September 4, 2021 5131 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading Entertainment firm in the USAIndustry Type:  EntertainmentServices: MusicOrganization Size: 100+Project ObjectiveThe objective of this project is to split a song into its vocals and instrumental.Project DescriptionThe project aims at taking a Hindi language song as input and separating the vocals(lyrics) from the instrumental music of the song. Save both the vocals and instrumental files separately as output.Our SolutionI have used Python programming language for this project. The use of a Python library called Spleeter developed by Deezer has been made to achieve our goal.Spleeter is Deezer source separation library with pretrained models written in Python and uses Tensorflow. It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavor of separation :Vocals (singing voice) / accompaniment separation (2 stems)Vocals / drums / bass / other separation (4 stems)Vocals / drums / bass / piano / other separation (5 stems)2 stems and 4 stems models have high performance on the musdb dataset. Spleeter is also very fast as it can perform separation of audio files to 4 stems 100x faster than real-time when run on a GPU.Project DeliverablesPython tool that takes Hindi song as input and gives two audio files as output: vocals file and instrumental file.Language/techniques usedPythonModels used2 Stems modelSkills usedAdvanced Python programmingProject Snapshots  
+
+
+
+Previous articleAI and ML technologies to Evaluate Learning AssessmentsNext articleKey Audit Matters Predictive Modeling Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Power BI integration with RestAPI, and SAML Integration 
+June 7, 2021 
+
+
+ 
+
+
+
+
+Construction Accounts Payable / Payroll Analytics in POWER BI 
+March 14, 2021 
+
+
+ 
+
+
+
+
+Environmental impact of the COVID-19 pandemic – Lesson for the Future 
+April 30, 2021 
+
+
+ 
+
+
+
+
+Recommendation System for Posts and Articles. 
+June 7, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Big Data & Analytics to Help Voters Know Their Political Leaders
+
+ 
+
+
+
+ 
+Impact of COVID-19 pandemic on sports events around the world.
+
+ 
+
+
+
+ 
+Business Analytics in Textile Industry (Raymond Ltd.)
+
+ 
+
+
+
+ 
+Sports Prediction Model for Multiple Sports Leagues
+
+   
+
+ 
+ 

@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Lipsync Automation for Celebrities and Influencers
+
+
+
+Our Success StoriesEntertainment Lipsync Automation for Celebrities and Influencers
+
+By Ajay Bidyarthy -   September 5, 2021 4811 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type:  EntertainmentServices: B2COrganization Size: 100+Project ObjectiveTo change the lipsing of the original video with the new replaced audio.Project DescriptionWe needed to create an output video that will have the new lipsing according to the new replaced audio. Also we will have to change the actual audio with the new audio with automated editing.Our SolutionWe have created two different files which will perform 2 different operations 1st will replace the original audio with new and extract only video from original. 2nd will take the muted video and replaced audio and we will get the output of the new replaced audio lipsync. This is done by pre-defined model Wav2Lip on github.Project Deliverables2  google colab notebooksTools usedgithubGoogle driveLanguage/techniques usedPython 3.6moviepyffmpegModels usedWav2lipSkills usedPython programmingData scienceDatabases usedProvided by the company (Hrithik Roshan video files)Project SnapshotsProject website urlhttps://colab.research.google.com/drive/18mlREpLmV9hj-uDfufkGJ_-m_E37Hct9?usp=sharinghttps://colab.research.google.com/drive/1FZHvcVKyJxOUkUFI2auPt3vTOu4jh09K?usp=sharing 
+
+
+
+Previous articleKey Audit Matters Predictive ModelingNext articleImmigration Datawarehouse & AI-based recommendations Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Coronavirus: Impact on the Hospitality Industry 
+May 1, 2020 
+
+
+ 
+
+
+
+
+Analytics Advantages in Broadcasting Industry 
+February 9, 2019 
+
+
+ 
+
+
+
+
+Why is there a severe immunological and inflammatory explosion in those... 
+March 30, 2020 
+
+
+ 
+
+
+
+
+How COVID-19 is impacting payment preferences? 
+June 22, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance...
+
+ 
+
+
+
+ 
+Political Intelligence Database
+
+ 
+
+
+
+ 
+Oil prices by the year 2040, and how it will impact...
+
+ 
+
+
+
+ 
+How to access Amazon Seller Central or Vendor Central data in...
+
+   
+
+ 
+ 

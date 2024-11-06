@@ -1,0 +1,131 @@
+
+
+
+Home  Our Success Stories  Creating a custom report and dashboard using the data got from Atera...
+
+
+
+Our Success StoriesIT Creating a custom report and dashboard using the data got from Atera API
+
+By Ajay Bidyarthy -   January 16, 2022 4556 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading Marketing firm in USAIndustry Type:  MarketingServices: Marketing, consulting, ads, business solutionsOrganization Size: 20+Project DescriptionAtera.com is used as our RMM, we have an agent on every machine. Which tracks the if a machine goes down, initial response time etc.., The website doesn’t provide any standard reports, So we needed to create a custom report.Our SolutionImporting the data from Atera API into JupyterUsing Web Scraping download the JSON dataConvert the JSON data to Data Frame and download it into PC.Clean the data with only required columnsUpload the data into google sheets.Connect google sheets and google data studioCreate the dashboard with the dataTools usedPython (Pandas, requests)Google SheetsGoogle Data StudioSkills usedAnalyticsProgramming LanguageDatabases usedContacts.csvCustomers.csvTickets.csvAlerts.csvWhat are the technical Challenges Faced during Project Execution?I found it difficult on downloading the data.How the Technical Challenges were SolvedOnce I figured I have been using the wrong Authorization key to login I was able to solve the issue, and convert the curl command into pythonProject SnapshotsProject website urlhttps://datastudio.google.com/reporting/5e61aecb-a420-41cc-afba-d0ca37f69132Project Video
+
+ 
+
+
+
+Previous articleAzure Data Lake and Power BI DashboardNext articleBig Data solution to an online multivendor marketplace eCommerce business Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Google Data Studio Dashboard for Marketing, ads and Traction data 
+January 16, 2022 
+
+
+ 
+
+
+
+
+Anomaly Detection and Analysis for Enhanced Data Integrity and User Experience... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+Sentiment Analysis of a Leading Restaurants Chain in the USA 
+October 5, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+IoT & AI/ML Solution for Construction and builders – apartment, commercial...
+
+ 
+
+
+
+ 
+React Native Apps in the Development Portfolio
+
+ 
+
+
+
+ 
+Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...
+
+ 
+
+
+
+ 
+Qualtrics API integration using Python
+
+   
+
+ 
+ 

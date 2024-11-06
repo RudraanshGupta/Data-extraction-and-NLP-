@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Marketing Analytics to Automate Leads Call Status and Reporting
+
+
+
+Our Success StoriesIT Marketing Analytics to Automate Leads Call Status and Reporting
+
+By Ajay Bidyarthy -   August 30, 2021 4029 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading Marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectivePrepare a daily report for the companies and upload it to Google Sheets. Data is from callrail and contains all call information about a company.Project DescriptionExtracts data from CallRail database for the last 24 hoursThe data is uploaded to the Google sheet “Call status record”The script runs once a day and is deployed to Heroku by the name “call-status-to-sheets”.The script runs for all companies in the CallRail database.The following data is uploaded:Company NameStatusLocationCustomer NameCall DateCall TimeContact NoCall StatusCall LeadOur SolutionUse CallRail API to get data from database.Run script dailyFilter out excess dataPrepare reportUpload to Google SheetsProject DeliverablesA working deployed automated tool that runs once a day in the morning hours and uploads the data to Google Sheets. Tool is monitored daily.Tools usedHerokuCallRail APIBigQuerySheets APILanguage/techniques usedPythonSkills usedData extraction, cleaning and summarisingDatabases usedGoogle Sheets –   Call status recordWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project ExecutionEnsuring proper amendment of data to sheets without overwriteHow the Technical Challenges were SolvedProper monitoring before final deployment 
+
+
+
+Previous articleCallRail, Analytics & Leads Report AlertNext articleMarketing Ads Leads Call Status Data Tool to BigQuery Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+SEO Tool – AI and Data Driven 
+March 14, 2021 
+
+
+ 
+
+
+
+
+Will Machine Replace The Human in the Future of Work? 
+June 25, 2021 
+
+
+ 
+
+
+
+
+Descriptive vs Inquisitive vs Predictive Analytics 
+April 4, 2019 
+
+
+ 
+
+
+
+
+Deploy node.js apps to google app engine, google cloud platform 
+May 16, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+How Big Data Will Impact the Future of Business?
+
+ 
+
+
+
+ 
+A Leading Hospitality Firm in the USA, Website SEO & Optimization
+
+ 
+
+
+
+ 
+Data security Protect a major enterprise asset
+
+ 
+
+
+
+ 
+Bank Risk Management in India
+
+   
+
+ 
+ 
