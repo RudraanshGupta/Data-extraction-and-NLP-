@@ -1,0 +1,131 @@
+
+
+
+Home  Our Success Stories  Budget, Sales KPI Dashboard using Power BI
+
+
+
+Our Success StoriesBanking Securities, and InsuranceLifestyle & eCommerce Budget, Sales KPI Dashboard using Power BI
+
+By Ajay Bidyarthy -   July 29, 2021 5851 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project DescriptionWeekly Data – clustered bar chart for weekly Budget & Actual value , weekly Total Budget & Actual value (completed)YTD Data – clustered bar chart for monthly Budget & Actual value , monthly Total Budget & Actual value (completed)Sales History – stacked chart for yearly sales with each month sales , total yearly sale (completed)Dashlet – weekly data – Total weekly Budget , Total weekly Actual , % weekly Budget (completed)Dashlet – YTD data – Total YTD Budget , Total YTD Actual , % YTD Budget (completed)Dashlet – Sales History – Total Sales (completed)Filters – select Area , select City , select Years (completed)Data Visualization DeliverablesPresentationMapDashboardAPI IntegrationData Visualization ToolsKibanaGoogle Data StudioMicrosoft ExcelMicrosoft Power BIData Visualization LanguagesJavaScriptSQLPythonDAXDemo
+
+ 
+
+
+
+Previous articleBenefits of Big Data in Different fieldsNext articleELK Stack – Elastic Queries Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+How are genetic sequencing maps affected by deep learning and AI? 
+August 26, 2021 
+
+
+ 
+
+
+
+
+How Telehealth and Telemedicine helping people to fight against COVID-19 
+April 28, 2022 
+
+
+ 
+
+
+
+
+Blockchain for Payments 
+September 7, 2019 
+
+
+ 
+
+
+
+
+Data Warehouse to Google Data Studio (Looker) Dashboard 
+July 29, 2023 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+How Google fit measure heart and respiratory rates using a phone...
+
+ 
+
+
+
+ 
+Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,...
+
+ 
+
+
+
+ 
+Estimating the impact of COVID-19 on the world of work
+
+ 
+
+
+
+ 
+Future of Work: Robot, AI and Automation
+
+   
+
+ 
+ 

@@ -1,0 +1,135 @@
+
+
+
+Home  Our Success Stories  Advanced AI for Pedestrian Crossing Safety
+
+
+
+Our Success StoriesInfrastructure & Real EstateProduction & manufacturing Advanced AI for Pedestrian Crossing Safety
+
+By Ajay Bidyarthy -   July 22, 2023 4168 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemTraffic Signals are inefficient because even if there are no cars or no pedestrians on the road it still works on a timer and stops the traffic or pedestrian unnecessarily. Our SolutionWe provide a Computer vision-logic to Manipulate the traffic signal to work such that it turns red only when x number of pedestrians are waiting to cross the signal.Solution ArchitectureYolov7 pose estimation
+OpencvDeliverablesThe program Detects Pedestrians and Gives alerts to traffic Signals to turn Red or stay Green.
+Yolov7 pose model weightsTools usedYolov7
+OpencvLanguage/techniques usedPython
+Computer VisionModels usedYolov7 Pose EstimationSkills usedProgramming
+Computer Vision
+Deep LearningWhat are the technical Challenges Faced during Project ExecutionThere was no existing solution and we had to create the logic from scratch.How the Technical Challenges were SolvedResearching Computer Vision. Learning new Techniques and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Handgun DetectionNext articleAdvanced AI for Road Cam Threat Detection Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Data Integration for Marketers 
+November 7, 2019 
+
+
+ 
+
+
+
+
+Cloud-Based Data Modeling and Analysis Platform with Drag-and-Drop Interface and OpenAI... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. 
+December 31, 2022 
+
+
+ 
+
+
+
+
+Is big data the same as AI? 
+July 20, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Department-Wise KPI Tracking Dashboard with Technician Performance Analysis for AtoZ Dependable...
+
+ 
+
+
+
+ 
+Driving Insights from the Largest Community for Investors and Traders
+
+ 
+
+
+
+ 
+MVP for a software that analyses content from audio (Pharma-based)
+
+ 
+
+
+
+ 
+Analytics in Healthcare Industry
+
+   
+
+ 
+ 

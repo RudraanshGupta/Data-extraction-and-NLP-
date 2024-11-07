@@ -1,0 +1,131 @@
+
+
+
+Home  Our Success Stories  Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the Dashboard...
+
+
+
+Our Success StoriesIT Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the Dashboard to Web App
+
+By Ajay Bidyarthy -   May 14, 2022 4609 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: Consulting, Software, Marketing SolutionsOrganization Size: 100+Project ObjectiveCreate a dashboard with Assets Performance With react App. So users can evaluate with Key metrics from data analytics and forecasting.Project DescriptionThe client requires two pages:Screening Asset Performance Portfolio Investing according to criteria and sector-based.Our SolutionBy using Power BI We can achieve this requirement without any additional stack. It requires a subscription to enhance the report.Using Page Navigation and bookmarks to create reports like Web Application with React App.Project DeliverablesAsset Report PageInvestor PageTools usedPower BIAzure AADMongo DB BI ConnectorODBC ConnectorDAX StudioLanguage/techniques usedSTAR SCHEMASkills usedDATA MODELLING.Performance Analyser.Vertipaq Analyser.Databases usedMongo DBWeb Cloud Servers usedAZURE What are the technical Challenges Faced during Project ExecutionTime for loading pages is increased due to raw data.Cold start of Report taking more time than usualHow the Technical Challenges were SolvedFrom Snowflake to Star Schema  achieved performance of Report By using Performance Analyser debugging resolved many glitches and where it is happening.Extraction, Transformation makes data less complex and removing unwanted data from a website perspective makes data shrink and achieved 75% of Data Reduction.Business ImpactLess coding with Power BI speeds the development process and achieves Best UX with less time.Project SnapshotsProject website urlhttps://digital.bctriangle.comProject Video
+
+ 
+
+
+
+Previous articleNFT Data Automation (looksrare), and ETL toolNext articleDashboard to track the analytics of the website using Google Analytics and Google Tag Manager Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Statistical Simulation 
+March 14, 2021 
+
+
+ 
+
+
+
+
+Marketing Tool to Notify Leads to Clients over Email and Phone 
+August 30, 2021 
+
+
+ 
+
+
+
+
+Environmental impact of the COVID-19 pandemic – Lesson for the Future 
+April 30, 2021 
+
+
+ 
+
+
+
+
+PHP Technology Framework 
+April 4, 2019 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic...
+
+ 
+
+
+
+ 
+Design and develop a product recommendation engine based on the features...
+
+ 
+
+
+
+ 
+IoT & AI/ML Solution for Construction and builders – apartment, commercial...
+
+ 
+
+
+
+ 
+Coronavirus Disease (COVID-19) Effect: The Impact and Role of Mass Media...
+
+   
+
+ 
+ 

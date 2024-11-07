@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+
+
+
+Our Success StoriesLifestyle & eCommerce Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+
+By Ajay Bidyarthy -   June 26, 2021 4801 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading consulting firm in the USAIndustry Type: ConsultingServices: Management consultantOrganization Size: 100+Project ObjectiveThe main objective of this project is to build the automation tool to buy product on amazon.Project DescriptionThis project is basically completed using selenium and Python. All we have done is write a python script for automation using Selenium.Make some clicks use logics to check item is in stock or not. If the item is in stock then it buys the product otherwise repeat the process again.Our SolutionA simple python code which uses selenium web driver to do all work.Project DeliverablesPython CodeTools usedSelenium WebdriverLanguage/techniques usedPythonSkills usedWeb ScrapingSeleniumProject Snapshots 
+
+
+
+Previous articlePredictive Modelling, AI, ML Dashboards in Power BINext articleHow does Big Data Help in Finance and the Growth of Large Firms? Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+What are the challenges, and acceptance of e-learning during the COVID-19... 
+December 7, 2021 
+
+
+ 
+
+
+
+
+Data Analytics Solution for the Hospitality Industry 
+March 17, 2020 
+
+
+ 
+
+
+
+
+Controversy as a Marketing Strategy 
+April 28, 2020 
+
+
+ 
+
+
+
+
+Ikiga Data, a Global Careers Data and Insights Platform 
+March 14, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Lessons from the past: Some key learnings relevant to the coronavirus...
+
+ 
+
+
+
+ 
+Coronavirus: Effect on the Hospitality Industry
+
+ 
+
+
+
+ 
+Data Engineering and Management tool (Airbyte) with custom data connectors to...
+
+ 
+
+
+
+ 
+COVID-19 Impact on Hospitality Industry
+
+   
+
+ 
+ 

@@ -1,0 +1,133 @@
+
+
+
+Home  Our Success Stories  Advanced AI for Handgun Detection
+
+
+
+Our Success StoriesInfrastructure & Real EstateITProduction & manufacturing Advanced AI for Handgun Detection
+
+By Ajay Bidyarthy -   July 21, 2023 4243 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemDetecting Handguns in images and videos.Our SolutionWe use Yolov7 instance segmentation model to detect and provide coordinates for handguns.Solution ArchitectureLinux 22.04
+YoloDeliverablesTrained model of yolov7 instance segmentationTools usedOpenimages
+Roboflow
+Yolov7Language/techniques usedPythonModels usedYolov7_maskSkills usedDeeplearning
+ProgrammingWhat are the technical Challenges Faced during Project ExecutionRetrieving handgun images in bulk from opensource.How the Technical Challenges were SolvedFound Openimages dataset with good amount of required imagesContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.  
+
+
+
+Previous articleUsing Graph Technology to Create Single Customer View.Next articleAdvanced AI for Pedestrian Crossing Safety Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Gender diversity and Equality in the tech industry 
+August 20, 2020 
+
+
+ 
+
+
+
+
+Plaid Financial Analytics – A Data-Driven Dashboard to generate insights 
+July 29, 2023 
+
+
+ 
+
+
+
+
+AI Chatbot using LLM, Langchain, LLama 
+July 7, 2024 
+
+
+ 
+
+
+
+
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
+March 9, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Marketing Analytics to Automate Leads Call Status and Reporting
+
+ 
+
+
+
+ 
+Evaluating Logistic Regression Models
+
+ 
+
+
+
+ 
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...
+
+ 
+
+
+
+ 
+A Leading Firm in the USA, Website SEO & Optimization
+
+   
+
+ 
+ 
