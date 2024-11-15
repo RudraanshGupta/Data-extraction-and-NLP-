@@ -21,3 +21,13 @@ def clean_text(text):
     cleaned_words = [word for word in words if word.isalpha() and word.lower() not in stop_words]
     return cleaned_words
 
+# Function to compute syllables in a word
+
+def syllable_count(word):
+
+    word = word.lower()
+    syllable_count = len(re.findall(r'[aeiouy]+', word))  # Count vowels
+    if word.endswith(('es', 'ed')):
+        syllable_count = max(1, syllable_count - 1)
+    return syllable_count
+
