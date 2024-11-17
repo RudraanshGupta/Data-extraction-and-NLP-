@@ -31,3 +31,21 @@ def syllable_count(word):
         syllable_count = max(1, syllable_count - 1)
     return syllable_count
 
+# Function to compute all required variables
+def compute_variables(text):
+    sentences = sent_tokenize(text)  # Tokenize text into sentences
+    words = word_tokenize(text)  # Tokenize text into words
+    
+    # Clean words by removing stopwords
+    cleaned_words = clean_text(text)
+    
+    # Sentiment Analysis: Positive/Negative Scores
+    positive_score = sum(1 for word in cleaned_words if word.lower() in positive_words)
+    negative_score = sum(1 for word in cleaned_words if word.lower() in negative_words)
+    
+    # Polarity and Subjectivity Scores
+    polarity_score = (positive_score - negative_score) / ((positive_score + negative_score) + 0.000001)
+    subjectivity_score = (positive_score + negative_score) / (len(cleaned_words) + 0.000001)
+    
+    # Average Sentence Length
+    avg_sentence_length = len(cleaned_words) / len(sentences) if sentences else 0
