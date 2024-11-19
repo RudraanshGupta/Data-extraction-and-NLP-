@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Trading Bot for FOREX
+
+
+
+Our Success StoriesBanking Securities, and Insurance Trading Bot for FOREX
+
+By Ajay Bidyarthy -   December 31, 2022 4604 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A Leading Trading Firm in the USAIndustry Type: FinanceServices: Trading, ConsultingOrganization Size: 100+The ProblemAutomate trading on the MT4 terminal for forex when certain conditions are met, and end trade at the best exit point.Save mt4 forex data for a instrument live for every tick.Our SolutionUse PyTrader to log into trading system (mt4) for 2 brokers.Use live prices to identify when prices diverge.Buy one currency on broker 1, sell currency on broker 2.Hold until prices come back together.Coded a MQL4 script that will save tick data (bid, ask, open, high, low, close) for any instrument when activeSolution ArchitectureDeliverablesPython Script to Automate the two Meta Trader 4 terminals, and trade when some conditions are true and break the trade at a exit point.A MQL4 Sript that will Save the Live tick data (Bid, Ask, Spread, Open, High, Low, Close) in a CSV file. Tools usedPyTradernumpypandasLanguage/techniques usedPython (Automation)Mql4 (To save tick data)Business ImpactClient requirements were  to automate his forex trading strategy  on Meta Trader4 terminal, so that he doesn’t have to bother trading anymore, the Python script we designed to not only do it, plus it offers a safe exit point for Ongoing Trades, that saved the client’s money and time. 
+
+
+
+Previous articlePython model for the analysis of sector-specific stock ETFs for investment purposesNext articleAlgorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+How Will AI Make Decisions In Tomorrow’s Wars? 
+July 20, 2021 
+
+
+ 
+
+
+
+
+ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+Transforming Insurance Claim Processing with Automation & Artificial Intelligence 
+April 25, 2019 
+
+
+ 
+
+
+
+
+Auvik, Connectwise integration in Grafana 
+July 13, 2022 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Central School System Logistics Optimization
+
+ 
+
+
+
+ 
+Role of big data & analytics in banking and finance
+
+ 
+
+
+
+ 
+Real-Time sentiment analysis tool – Retail Industry
+
+ 
+
+
+
+ 
+COVID-19 Vs Indian Economy
+
+   
+
+ 
+ 

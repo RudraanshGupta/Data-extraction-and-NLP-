@@ -1,0 +1,133 @@
+
+
+
+Home  Our Success Stories  Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single...
+
+
+
+Our Success StoriesITRetail & Supply Chain Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single Source of Truth
+
+By Ajay Bidyarthy -   July 22, 2023 4127 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail BusinessOrganization Size: 100+The ProblemThe Client was using NoSql Database which was slow and did not provide real-time response for complex queries. The data had many Connections and it was difficult to represent them in NoSQL or Relational Databases.Our SolutionCreate a Knowledge Graph and Provide Real-time Analytics and Recommendations using Machine Learning.Solution ArchitectureNeo4j was Installed on a Cloud VM based on Linodes.DeliverablesKnowledge graphs and Data Pipelines are used to Populate the Graph.API’s to Perform CRUD operations in real-time.Tools usedNeo4j
+PostmanLanguage/techniques usedPython
+JSONModels usedNode-Relationship modelSkills usedProgramming
+Data Engineering
+Data AnalyticsDatabases usedNeo4jWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionIntegration of Firestore with Neo4j without any native integration method or driver.How the Technical Challenges were SolvedThe challenge was solved by using api to retrieve data from Firestore.Project Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Thermal Person DetectionNext articleAdvanced AI for Trading Automation Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Streamlined Equity Waterfall Calculation and Deal Management System 
+March 16, 2024 
+
+
+ 
+
+
+
+
+The 8 Steps of AI/ML Project 
+January 14, 2020 
+
+
+ 
+
+
+
+
+Environmental impact of the COVID-19 pandemic – Lesson for the Future 
+April 30, 2021 
+
+
+ 
+
+
+
+
+Rise of Cyber Crime and its Effects 
+August 17, 2023 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+How advanced analytics are redefining banking?
+
+ 
+
+
+
+ 
+Healthcare Data Analysis
+
+ 
+
+
+
+ 
+AWS QuickSight Reporting Dashboard
+
+ 
+
+
+
+ 
+AI and its impact on the Fashion Industry
+
+   
+
+ 
+ 

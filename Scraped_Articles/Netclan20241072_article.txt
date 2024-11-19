@@ -1,0 +1,131 @@
+
+
+
+Home  Our Success Stories  AI agent development and Deployment in Jina AI
+
+
+
+Our Success StoriesIT AI agent development and Deployment in Jina AI
+
+By Ajay Bidyarthy -   July 24, 2023 4175 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in EuropeIndustry Type:  ITServices: IT and ConsultingOrganization Size: 100+The ProblemThe client’s object was to create AI agents for his website, which the end-users will utilize for many tasks. The client had some recommendations on the models are utilized.Our SolutionCreated a feasible models list that complements the client’s requirement and when ahead and executed the Executor code for every model for compatibility with JinaAI deployment. After implementing Executor codes, I created a Flow to connect every executor and deployed it successfully. DeliverablesSuccessfully delivered executable deployed models in Jina AiTools usedJina AI, VSCode, HuggingFaceLanguage/techniques usedPythonModels usedWhisper, Stable Diffusion, GPT3, Codex, YOLO, CoquiAI, PDF SegmentorSkills usedPython, Model APIs Databases usedJinaAI CloudWhat are the technical Challenges Faced during Project ExecutionThere were minute challenges, such as deployment issues and Execution issuesHow the Technical Challenges were SolvedI resolved the issues effectively after long hours of understanding the concept because JinaAI is a new growing technology that does not have many forums to solve errors and issues. Project SnapshotsProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleGolden Record – A knowledge graph database approach to unfold discovery using Neo4jNext articleAI Solutions for Foreign Exchange – An Automated Algo Trading Tool Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+GPT/OCR API 
+February 27, 2024 
+
+
+ 
+
+
+
+
+Power BI Data-Driven Map Dashboard 
+February 26, 2022 
+
+
+ 
+
+
+
+
+Advanced Patient Data Analysis Solution for Trend Identification and Improved Healthcare... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+What is the future of mobile apps? 
+February 12, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+What are the key policies that will mitigate the impacts of...
+
+ 
+
+
+
+ 
+ML and AI-based insurance premium model to predict premium to be...
+
+ 
+
+
+
+ 
+OCR (Optical Character Recognition)
+
+ 
+
+
+
+ 
+Methodology for database discovery tool using openai, LLMA, Langchain
+
+   
+
+ 
+ 

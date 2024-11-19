@@ -1,0 +1,129 @@
+
+
+
+Home  Our Success Stories  Optimize the data scraper program to easily accommodate large files and solve...
+
+
+
+Our Success StoriesIT Optimize the data scraper program to easily accommodate large files and solve OOM errors
+
+By Ajay Bidyarthy -   May 13, 2022 4101 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionBuilding a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating websites, etc. Our SolutionWe had tried multiple solutions to prevent the program from running out of memory. We used python pandas techniques to control the use of memory which worked for some files and did not work for others. Provided more solutions using vaex ,dask module and datatables.Project DeliverablesDesired changes to the code and committing them to github.Tools usedVscodePythonGithubSlackLanguage/techniques usedChunking dask Dataframevaex  datatable python.Skills usedCloud PythonTime complexityWhat are the technical Challenges Faced during Project ExecutionSystem specs requirement was the main issue during this project because the RAM available was too less and got used up quickly.How the Technical Challenges were SolvedTeam viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem.Business ImpactProvided various techniques to solve memory issues.Suggested parallel programming to decrease the execution time by 12% making getting the tender data at a much faster rate.Project SnapshotsProject website urlhttps://github.com/Taiyo-ai/opentenders-euhttps://opentender.eu  
+
+
+
+Previous articleMaking a robust way to sync data from airtables to mongoDB using python – ETL SolutionNext articleNFT Data Automation (looksrare), and ETL tool Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Design and develop retool app for wholecell.io and Asana data using... 
+August 6, 2023 
+
+
+ 
+
+
+
+
+ML and AI-based insurance premium model to predict premium to be... 
+January 7, 2024 
+
+
+ 
+
+
+
+
+Data Driven Dashboards, Foundation and Application in Industry 
+May 26, 2017 
+
+
+ 
+
+
+
+
+What if the Creation is Taking Over the Creator? 
+June 25, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Why scams like Nirav Modi Happen with Indian banks?
+
+ 
+
+
+
+ 
+OTT platform and its impact on the entertainment industry in Future.
+
+ 
+
+
+
+ 
+How Machines, AI, Automations, and Robo-human are Effective in Finance and...
+
+ 
+
+
+
+ 
+Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch
+
+   
+
+ 
+ 

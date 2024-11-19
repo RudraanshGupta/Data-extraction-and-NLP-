@@ -1,0 +1,1 @@
+Building a Physics-Informed Neural Network for Circuit Evaluation - Blackcoffer Insights

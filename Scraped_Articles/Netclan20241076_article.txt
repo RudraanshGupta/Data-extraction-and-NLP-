@@ -1,0 +1,134 @@
+
+
+
+Home  Our Success Stories  Advanced AI for Thermal Person Detection
+
+
+
+Our Success StoriesInfrastructure & Real EstateProduction & manufacturing Advanced AI for Thermal Person Detection
+
+By Ajay Bidyarthy -   July 22, 2023 4150 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemDetect a Person from thermal image and videos. Why this model was created was not told to us by the client.Our SolutionUse Deeplearning Computer Vision to train the model on custom dataset and get the results.Solution ArchitectureLinux 22.04
+Nvidiva RTX 3080DeliverablesTrained modelTools usedLabelimg
+Yolov7
+COCO2JSONLanguage/techniques usedPythonModels usedYolov7Skills usedDeeplearning
+Computer vision
+ProgrammingContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Road Cam Threat DetectionNext articleCreate a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single Source of Truth Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+ 
+
+
+
+ 
+
+AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Coronavirus: Impact on the Hospitality Industry 
+April 28, 2020 
+
+
+ 
+
+
+
+
+IOT, AI, ML for Machine Tracking 
+June 19, 2020 
+
+
+ 
+
+
+
+
+How to Overcome Your Fear of Making Mistakes 
+August 23, 2020 
+
+
+ 
+
+
+
+
+Transalta: Migration of servers from VMware to AWS Client 
+January 16, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Design and develop Jenkins shared library
+
+ 
+
+
+
+ 
+Real-Time sentiment analysis tool – Retail Industry
+
+ 
+
+
+
+ 
+Bank Risk Management in India
+
+ 
+
+
+
+ 
+The rise of the OTT platform and its impact on the...
+
+   
+
+ 
+ 
