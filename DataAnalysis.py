@@ -49,3 +49,15 @@ def compute_variables(text):
     
     # Average Sentence Length
     avg_sentence_length = len(cleaned_words) / len(sentences) if sentences else 0
+    
+    # Complex Words and Fog Index
+    complex_words = [word for word in cleaned_words if syllable_count(word) > 2]
+    complex_word_count = len(complex_words)
+    percentage_complex_words = complex_word_count / len(cleaned_words) if cleaned_words else 0
+    fog_index = 0.4 * (avg_sentence_length + percentage_complex_words * 100)
+    
+    # Word Count
+    word_count = len(cleaned_words)
+    
+    # Average Number of Words per Sentence
+    avg_words_per_sentence = word_count / len(sentences) if sentences else 0
