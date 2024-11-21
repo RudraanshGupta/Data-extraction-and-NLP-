@@ -61,3 +61,12 @@ def compute_variables(text):
     
     # Average Number of Words per Sentence
     avg_words_per_sentence = word_count / len(sentences) if sentences else 0
+    
+    # Syllable per Word
+    syllable_per_word = sum(syllable_count(word) for word in cleaned_words) / len(cleaned_words) if cleaned_words else 0
+    
+    # Personal Pronouns Count
+    personal_pronouns = len(re.findall(r'\b(I|we|my|ours|us)\b', text, re.I))
+    
+    # Average Word Length
+    avg_word_length = sum(len(word) for word in cleaned_words) / len(cleaned_words) if cleaned_words else 0
