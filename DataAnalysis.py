@@ -70,3 +70,19 @@ def compute_variables(text):
     
     # Average Word Length
     avg_word_length = sum(len(word) for word in cleaned_words) / len(cleaned_words) if cleaned_words else 0
+    
+    return {
+        "POSITIVE SCORE": positive_score,
+        "NEGATIVE SCORE": negative_score,
+        "POLARITY SCORE": polarity_score,
+        "SUBJECTIVITY SCORE": subjectivity_score,
+        "AVG SENTENCE LENGTH": avg_sentence_length,
+        "PERCENTAGE OF COMPLEX WORDS": percentage_complex_words,
+        "FOG INDEX": fog_index,
+        "AVG NUMBER OF WORDS PER SENTENCE": avg_words_per_sentence,
+        "COMPLEX WORD COUNT": complex_word_count,
+        "WORD COUNT": word_count,
+        "SYLLABLE PER WORD": syllable_per_word,
+        "PERSONAL PRONOUNS": personal_pronouns,
+        "AVG WORD LENGTH": avg_word_length
+    }
