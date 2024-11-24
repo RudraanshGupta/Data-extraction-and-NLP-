@@ -86,3 +86,17 @@ def compute_variables(text):
         "PERSONAL PRONOUNS": personal_pronouns,
         "AVG WORD LENGTH": avg_word_length
     }
+
+# Function to process all articles in the folder
+def analyze_all_articles(folder):
+    results = []
+    for filename in os.listdir(folder):
+        if filename.endswith("_article.txt"):
+            url_id = filename.split("_")[0]
+            with open(os.path.join(folder, filename), 'r', encoding='utf-8') as file:
+                article_text = file.read()
+                # Compute the variables for the article text
+                variables = compute_variables(article_text)
+                results.append([url_id] + list(variables.values()))
+    
+    return results
