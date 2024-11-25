@@ -100,3 +100,15 @@ def analyze_all_articles(folder):
                 results.append([url_id] + list(variables.values()))
     
     return results
+
+# Loading Input.xlsx 
+input_df = pd.read_excel('Input.xlsx')
+
+# Analyze all articles in the scraped_articles folder
+folder = 'scraped_articles'  
+results = analyze_all_articles(folder)
+
+# Converting results to DataFrame
+columns = ["URL_ID", "POSITIVE SCORE", "NEGATIVE SCORE", "POLARITY SCORE", "SUBJECTIVITY SCORE", 
+           "AVG SENTENCE LENGTH", "PERCENTAGE OF COMPLEX WORDS", "FOG INDEX","AVG NUMBER OF WORDS PER SENTENCE","COMPLEX WORD COUNT", 
+           "WORD COUNT", "SYLLABLE PER WORD", "PERSONAL PRONOUNS", "AVG WORD LENGTH"]
