@@ -112,3 +112,12 @@ results = analyze_all_articles(folder)
 columns = ["URL_ID", "POSITIVE SCORE", "NEGATIVE SCORE", "POLARITY SCORE", "SUBJECTIVITY SCORE", 
            "AVG SENTENCE LENGTH", "PERCENTAGE OF COMPLEX WORDS", "FOG INDEX","AVG NUMBER OF WORDS PER SENTENCE","COMPLEX WORD COUNT", 
            "WORD COUNT", "SYLLABLE PER WORD", "PERSONAL PRONOUNS", "AVG WORD LENGTH"]
+
+results_df = pd.DataFrame(results, columns=columns)
+
+# Loading the Output Data Structure.xlsx to get the correct structure
+output_structure = pd.read_excel('Output Data Structure.xlsx')
+
+# Merging the results with the output structure based on 'URL_ID'
+final_output = pd.merge(output_structure, results_df, on="URL_ID", how="left")
+
