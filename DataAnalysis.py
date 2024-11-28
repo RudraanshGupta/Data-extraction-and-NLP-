@@ -121,3 +121,7 @@ output_structure = pd.read_excel('Output Data Structure.xlsx')
 # Merging the results with the output structure based on 'URL_ID'
 final_output = pd.merge(output_structure, results_df, on="URL_ID", how="left")
 
+# Saving the final output in the exact structure of Output Data Structure.xlsx
+final_output.to_excel('Final_Output_Structured.xlsx', index=False)
+
+print("Analysis completed and saved in the correct structure to Final_Output_Structured.xlsx")
