@@ -1,11 +1,1 @@
 # Data-extraction-and-NLP
-
-
-
-
-
-
-
-
-
-
