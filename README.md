@@ -74,8 +74,8 @@ Ensure you have **Python 3.x** installed. The project relies on the following ex
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/RudraanshGupta/Data-extraction-and-NLP-.git](https://github.com/RudraanshGupta/Data-extraction-and-NLP-.git)
+    cd Data-extraction-and-NLP-
     ```
 
 2.  **Install Dependencies**
@@ -97,35 +97,3 @@ Run the extraction script to scrape the articles from the URLs listed in `Input.
 
 ```bash
 python "Data Extraction.py"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
