@@ -1,13 +1,11 @@
 # Data-extraction-and-NLP
 
-# Automated Web Scraping & Textual Analysis Pipeline
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas)
 ![NLTK](https://img.shields.io/badge/NLTK-Natural_Language_Processing-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 📋 Overview
+## Overview
 
 This project implements a robust pipeline for **automated data extraction** and **linguistic analysis**. It is designed to iterate through a list of URLs, extract article content while excluding boilerplate HTML, and perform in-depth textual analysis to compute various readability and sentiment metrics.
 
@@ -17,7 +15,7 @@ The solution is split into two modular components:
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 * [Project Architecture](#-project-architecture)
 * [Features](#-features)
@@ -29,7 +27,7 @@ The solution is split into two modular components:
 
 ---
 
-## 🏗 Project Architecture
+## Project Architecture
 
 The pipeline follows a linear execution flow:
 
@@ -48,17 +46,7 @@ The pipeline follows a linear execution flow:
 
 ---
 
-## 🚀 Features
-
-* **Robust Scraping:** Handles HTML parsing efficiently to isolate article text.
-* **Sentiment Analysis:** Determines if the text is positive, negative, or neutral using custom dictionaries.
-* **Readability Scoring:** Calculates the **Gunning Fog Index** to determine the complexity of the text.
-* **Linguistic Metrics:** Computes average sentence length, complex word count, syllable count, and personal pronoun usage.
-* **Batch Processing:** Capable of handling large datasets of URLs via Excel input.
-
----
-
-## ⚙ Prerequisites
+## Prerequisites
 
 Ensure you have **Python 3.x** installed. The project relies on the following external libraries:
 
@@ -70,7 +58,7 @@ Ensure you have **Python 3.x** installed. The project relies on the following ex
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 1.  **Clone the Repository**
     ```bash
