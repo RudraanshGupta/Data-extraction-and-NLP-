@@ -78,7 +78,7 @@ Ensure you have **Python 3.x** installed. The project relies on the following ex
 
 ---
 
-## 🕹 Usage Guide
+## Usage Guide
 
 ### Step 1: Data Extraction
 Run the extraction script to scrape the articles from the URLs listed in `Input.xlsx`.
